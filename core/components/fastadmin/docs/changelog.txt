@@ -1,0 +1,5 @@
+Changelog for FastAdmin.
+
+0.1-beta
+==============
+- beta release.
